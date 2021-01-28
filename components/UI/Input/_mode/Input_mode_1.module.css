@@ -1,21 +1,21 @@
 .Input_mode_1 {
-  padding: 10px;
-  width: 300px;
+  padding: 10px!important;
+  width: 300px!important;
 
-  line-height: 20px;
-  border-radius: 5px;
-  border: 1px solid #bac4da;
+  line-height: 20px!important;
+  border-radius: 5px!important;
+  border: 1px solid #bac4da!important;
 
-  transition: all 0.3s ease;
+  transition: all 0.3s ease!important;
 }
 
 .Input_mode_1:hover {
-  border: 1px solid #000;
-  box-shadow: 5px 5px 5px #000;
+  border: 1px solid #000!important;
+  box-shadow: 5px 5px 5px #000!important;
 }
 
 .Input_mode_1:focus {
-  background-color: lightskyblue;
-  border: 1px solid #000;
-  box-shadow: 5px 5px 5px #000;
+  background-color: lightskyblue!important;
+  border: 1px solid #000!important;
+  box-shadow: 5px 5px 5px #000!important;
 }
