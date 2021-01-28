@@ -1,0 +1,21 @@
+.Input_mode_1 {
+  padding: 10px;
+  width: 300px;
+
+  line-height: 20px;
+  border-radius: 5px;
+  border: 1px solid #bac4da;
+
+  transition: all 0.3s ease;
+}
+
+.Input_mode_1:hover {
+  border: 1px solid #000;
+  box-shadow: 5px 5px 5px #000;
+}
+
+.Input_mode_1:focus {
+  background-color: lightskyblue;
+  border: 1px solid #000;
+  box-shadow: 5px 5px 5px #000;
+}
